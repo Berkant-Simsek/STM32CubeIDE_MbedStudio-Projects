@@ -1,4 +1,4 @@
-#PART 1:
+PART 1:
 
 Explanation:
 
